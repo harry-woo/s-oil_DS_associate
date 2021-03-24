@@ -44,7 +44,7 @@ library(data.table)
 df <- fread("bike.csv")
 head(df, 2)
 
-install.packages("readxl")
+# install.packages("readxl")
 df <- read.excel("iris_xlsx.xlsx")
 head(df, 2)
 
