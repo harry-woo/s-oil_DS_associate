@@ -69,7 +69,7 @@ write.xlsx(df, "write_xlsx.xlsx")
 "abc"
 'abc'
 "abc'aaa"
-'abc'aaa''
+# 'abc'aaa''
 
 TRUE
 FALSE
@@ -203,3 +203,31 @@ aws[c(1, 3), "Wind"]
 aws[c(2, 4), c("Wind", "AWS_ID")]
 aws[1:3, -5]
 aws[1:3, -c(2, 4)]
+
+aws[1, ] = -1
+head(aws)
+
+aws[1:2, ] <- -33
+head(aws)
+
+aws["6", ] <- -4
+head(aws)
+
+aws[c(1:2, 6), ] <- -6666
+head(aws)
+
+aws[, 6] = "new"
+aws[, ncol(aws) + 1] <- "new!!!"
+head(aws, 2)
+
+# 2줄
+aws_name <- colnames(aws)
+aws_name[6:7] <- c("aa", "bb")
+head(aws, 2)
+
+# 1줄
+colnames(aws)[c(6, 7)] <- c("aa", "bb")
+head(aws, 2)
+
+aws$newnew <-  3333
+head(aws)
