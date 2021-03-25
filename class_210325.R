@@ -261,3 +261,64 @@ as.numeric(num)
 
 as.numeric(gsub(pattern = "[^0-9.]",
                 replacement = "", "1,234.456원"))
+
+dia <- read.csv("diamonds.csv")
+head(dia, 2)
+dia_tbl <- table(dia$color, dia$clarity)
+dia_tbl
+
+df_dia_tbl <- as.data.frame(dia_tbl)
+head(df_dia_tbl)
+
+colnames(df_dia_tbl) <- c("color", "clarity", "count")
+
+max(df_dia_tbl$count); min(df_dia_tbl$count)
+quantile(df_dia_tbl$count, probs = c(0, 1)) # quantile을 활용해 mix max 구하기
+
+df_dia_tbl[df_dia_tbl$count == min(df_dia_tbl$count), ]
+
+library(dplyr)
+df_dia_tbl %>% filter(count == (min(df_dia_tbl$count) | max(df_dia_tbl$count)))
+
+
+df_min <- df_dia_tbl[df_dia_tbl$count == min(df_dia_tbl$count), ]
+df_max <- df_dia_tbl[df_dia_tbl$count == max(df_dia_tbl$count), ]
+
+df_dia_tbl[which.min(df_dia_tbl$count), 2:3]
+which.max(df_dia_tbl$count)
+
+df_minmax <- rbind(df_min, df_max)
+df_minmax
+
+
+# install.packages("reshape2")
+library("reshape2")
+
+elec_melt <- melt(data = elec,
+                  id.vars = colnames(elec)[1:3])
+head(elec_melt)
+
+colnames(elec_melt)[4:5] <- c("HOUR", "LOAD")
+
+for(i in 1:nrow(elec_melt)){
+  elec_melt[i, "HOUR_new"] = as.numeric(gsub(pattern = "[^0-9.]", 
+                                             replacement = "", elec_melt[i, 4]))  
+}
+
+unique(elec_melt$HOUR)
+unique(elec_melt$HOUR_new)
+table(elec_melt$HOUR, elec_melt$HOUR_new)
+xtabs(~ HOUR + HOUR_new, data = elec_melt)
+
+class(elec_melt$HOUR_new)
+
+elec_agg <- aggregate(data = elec_melt,
+                      LOAD ~ YEAR + MONTH, FUN = "mean")
+elec_cast <- dcast(data = elec_melt,
+                   formula = YEAR ~ MONTH,
+                   value.var = "LOAD",
+                   fun.aggregate = mean)
+
+elec_melt %>% 
+  group_by(YEAR, MONTH) %>% 
+  summarise(mean_LOAD = mean(LOAD))
