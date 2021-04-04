@@ -5,8 +5,10 @@ rm(list = ls())
 
 3 ^ 3
 
-5 %/% 2  # 5를 2로 나눈 나머지지
-# 5 %/% 2
+5 %/% 2
+
+5 %/% 2  # 5를 2로 나눈 몫
+
 # 주석(comment)
 # 주석처리 단축키는 컨쉬C
 
@@ -51,6 +53,7 @@ head(df, 2)
 
 write.csv(df, "write_csv_basic.csv",
           row.names = FALSE)
+
 
 library("readr")
 write_tsv(df, "write_tsv.txt")

@@ -1,0 +1,487 @@
+﻿year,ISO_code,region,ef_score,ef_government,ef_legal,ef_money,ef_trade,ef_regulation
+2017,ALB,Eastern Europe,7.67,7.5,5.1,9.6,8.3,7.8
+2017,DZA,Middle East & North Africa,4.77,3.6,4.7,7.3,2.8,5.4
+2017,AGO,Sub-Saharan Africa,4.83,6.8,3.0,5.6,3.2,5.7
+2017,ARG,Latin America & the Caribbean,5.67,5.7,4.0,6.5,6.5,5.6
+2017,ARM,Caucasus & Central Asia,7.7,7.4,5.9,9.5,8.2,7.5
+2017,AUS,Oceania,8.07,7.0,7.9,9.5,7.6,8.5
+2017,AUT,Western Europe,7.71,5.7,7.9,9.4,8.1,7.5
+2017,AZE,Caucasus & Central Asia,6.34,4.8,5.5,6.8,7.3,7.2
+2017,BHS,Latin America & the Caribbean,7.25,8.1,6.5,6.9,6.5,8.2
+2017,BHR,Middle East & North Africa,7.35,7.0,5.2,9.4,7.4,7.8
+2017,BGD,South Asia,6.18,8.2,3.1,7.0,6.0,6.7
+2017,BRD,Latin America & the Caribbean,6.45,6.3,5.9,6.2,7.0,7.0
+2017,BLR,Eastern Europe,6.64,6.1,5.3,7.4,6.8,7.5
+2017,BEL,Western Europe,7.51,4.9,7.1,9.5,8.2,8.0
+2017,BLZ,Latin America & the Caribbean,6.78,6.9,5.2,7.2,6.5,8.1
+2017,BEN,Sub-Saharan Africa,6.08,7.1,4.2,6.7,6.1,6.4
+2017,BTN,South Asia,6.77,6.9,6.4,6.8,6.3,7.5
+2017,BOL,Latin America & the Caribbean,6.14,5.9,3.5,9.3,7.0,4.9
+2017,BIH,Eastern Europe,6.69,5.6,4.2,8.3,7.8,7.5
+2017,BWA,Sub-Saharan Africa,7.37,6.4,5.9,9.3,7.4,7.9
+2017,BRA,Latin America & the Caribbean,6.23,5.7,4.5,9.4,7.1,4.4
+2017,BRN,South Asia,6.62,3.3,5.3,8.8,7.2,8.5
+2017,BGR,Eastern Europe,7.54,7.1,5.3,9.4,8.1,7.7
+2017,BFA,Sub-Saharan Africa,6.07,5.7,4.3,7.0,6.5,6.9
+2017,BDI,Sub-Saharan Africa,6.17,6.9,3.5,8.2,5.9,6.3
+2017,KHM,South Asia,7.44,9.1,4.4,9.3,7.3,7.0
+2017,CMR,Sub-Saharan Africa,5.84,6.9,3.2,7.3,5.2,6.6
+2017,CAN,North America,8.08,6.5,7.8,9.6,7.9,8.6
+2017,CPV,Sub-Saharan Africa,7.16,7.2,6.0,8.3,7.2,7.1
+2017,CAF,Sub-Saharan Africa,5.23,6.5,2.7,6.7,4.7,5.5
+2017,TCD,Sub-Saharan Africa,5.42,7.4,2.7,6.8,5.2,5.0
+2017,CHL,Latin America & the Caribbean,7.89,8.2,6.4,9.5,8.3,7.0
+2017,CHN,East Asia,6.42,4.7,5.6,8.5,6.8,6.5
+2017,COL,Latin America & the Caribbean,6.68,7.2,3.9,8.2,6.7,7.3
+2017,COD,Sub-Saharan Africa,5.0,6.9,3.1,4.4,5.6,5.0
+2017,COG,Sub-Saharan Africa,5.08,5.6,3.1,5.7,5.4,5.6
+2017,CRI,Latin America & the Caribbean,7.41,7.0,5.8,9.8,8.0,6.5
+2017,CIV,Sub-Saharan Africa,5.97,5.9,4.2,7.1,5.9,6.7
+2017,HRV,Eastern Europe,7.26,5.7,5.6,9.6,8.2,7.3
+2017,CYP,Eastern Europe,7.68,6.9,6.1,9.4,8.3,7.7
+2017,CZE,Eastern Europe,7.75,6.7,6.4,9.3,8.2,8.2
+2017,DNK,Western Europe,7.89,4.7,8.1,9.8,8.5,8.4
+2017,DOM,Latin America & the Caribbean,6.92,6.4,4.1,9.5,7.9,6.6
+2017,ECU,Latin America & the Caribbean,6.28,6.5,4.0,8.3,6.5,6.0
+2017,EGY,Middle East & North Africa,5.05,4.9,4.0,5.8,5.8,4.8
+2017,SLV,Latin America & the Caribbean,7.16,8.4,3.6,9.9,7.6,6.3
+2017,EST,Eastern Europe,7.89,6.2,7.4,9.3,8.4,8.2
+2017,SWZ,Sub-Saharan Africa,6.52,5.3,4.9,7.7,7.0,7.7
+2017,ETH,Sub-Saharan Africa,5.72,5.6,4.7,6.5,5.1,6.7
+2017,FJI,Oceania,6.74,6.0,5.3,7.0,6.4,8.9
+2017,FIN,Western Europe,7.8,4.7,8.8,9.4,8.2,7.9
+2017,FRA,Western Europe,7.35,4.8,7.0,9.5,8.2,7.3
+2017,GAB,Sub-Saharan Africa,5.88,6.3,4.2,6.1,5.9,6.8
+2017,GMB,Sub-Saharan Africa,7.23,7.2,5.4,9.2,7.2,7.1
+2017,GEO,Caucasus & Central Asia,7.94,7.6,6.3,8.9,8.7,8.1
+2017,DEU,Western Europe,7.82,6.2,7.4,9.5,8.0,8.0
+2017,GHA,Sub-Saharan Africa,6.58,8.0,5.2,5.9,6.6,7.2
+2017,GRC,Eastern Europe,6.59,4.4,5.7,8.0,7.7,7.2
+2017,GTM,Latin America & the Caribbean,7.57,9.4,4.3,9.5,8.0,6.5
+2017,GIN,Sub-Saharan Africa,5.86,5.4,3.2,7.8,5.9,6.9
+2017,GNB,Sub-Saharan Africa,5.23,5.0,2.9,6.3,6.2,5.8
+2017,GUY,Latin America & the Caribbean,6.32,5.7,4.8,8.4,6.3,6.4
+2017,HTI,Latin America & the Caribbean,6.49,8.5,2.5,7.1,7.5,6.9
+2017,HND,Latin America & the Caribbean,7.16,8.8,3.7,9.1,7.2,6.9
+2017,HKG,East Asia,8.91,8.2,7.9,9.6,9.3,9.4
+2017,HUN,Eastern Europe,7.27,5.4,6.0,9.7,8.0,7.3
+2017,ISL,Western Europe,7.74,5.8,8.4,9.5,7.3,7.7
+2017,IND,South Asia,6.91,8.2,5.2,8.4,6.1,6.7
+2017,IDN,South Asia,7.27,8.3,4.9,9.7,6.9,6.5
+2017,IRN,Middle East & North Africa,5.72,5.5,4.6,8.0,4.9,5.6
+2017,IRQ,Middle East & North Africa,5.21,5.0,2.8,7.1,5.5,5.5
+2017,IRL,Western Europe,8.13,6.7,7.5,9.5,8.6,8.4
+2017,ISR,Middle East & North Africa,7.53,6.5,6.2,9.4,8.2,7.4
+2017,ITA,Western Europe,7.41,6.1,5.8,9.4,8.2,7.5
+2017,JAM,Latin America & the Caribbean,7.17,7.5,5.1,8.5,6.8,8.0
+2017,JPN,East Asia,7.86,5.7,7.6,9.5,8.2,8.3
+2017,JOR,Middle East & North Africa,7.44,7.6,4.8,9.5,7.5,7.8
+2017,KAZ,Caucasus & Central Asia,7.1,7.0,5.3,8.9,6.6,7.7
+2017,KEN,Sub-Saharan Africa,7.05,7.4,5.2,9.2,6.7,6.7
+2017,KOR,East Asia,7.59,7.0,6.5,9.6,7.6,7.3
+2017,KWT,Middle East & North Africa,6.41,5.2,5.0,8.4,6.8,6.7
+2017,KGZ,Caucasus & Central Asia,6.92,7.0,4.3,9.3,7.4,6.7
+2017,LAO,South Asia,6.67,6.3,5.6,7.4,7.5,6.5
+2017,LVA,Eastern Europe,7.73,6.8,6.3,9.3,8.4,7.9
+2017,LBN,Middle East & North Africa,6.97,8.4,3.8,9.6,6.8,6.4
+2017,LSO,Sub-Saharan Africa,6.5,5.6,5.4,7.7,6.4,7.4
+2017,LBR,Sub-Saharan Africa,6.56,7.2,4.2,9.0,6.2,6.2
+2017,LBY,Middle East & North Africa,4.45,3.7,3.6,6.5,2.3,6.2
+2017,LTU,Eastern Europe,7.88,7.4,6.6,9.2,8.2,8.0
+2017,LUX,Western Europe,7.86,5.4,8.3,9.4,8.3,7.9
+2017,MDG,Sub-Saharan Africa,6.14,7.6,3.0,7.6,6.7,5.8
+2017,MWI,Sub-Saharan Africa,6.06,5.9,4.7,7.0,6.6,6.0
+2017,MYS,South Asia,7.34,6.4,5.6,8.2,7.8,8.7
+2017,MLI,Sub-Saharan Africa,5.91,5.7,3.5,7.3,6.9,6.2
+2017,MLT,Western Europe,7.97,7.1,6.5,9.5,8.4,8.3
+2017,MRT,Sub-Saharan Africa,6.11,5.9,3.7,8.0,6.0,6.9
+2017,MUS,Sub-Saharan Africa,8.07,8.0,6.9,9.4,8.5,7.5
+2017,MEX,Latin America & the Caribbean,6.93,7.9,4.2,7.9,7.6,7.0
+2017,MDA,Eastern Europe,6.66,6.4,4.3,8.1,7.5,6.9
+2017,MNG,East Asia,7.43,7.9,5.8,9.1,6.7,7.6
+2017,MNE,Eastern Europe,6.84,5.9,4.9,8.1,8.2,7.0
+2017,MAR,Middle East & North Africa,6.69,6.2,5.6,7.3,7.1,7.3
+2017,MOZ,Sub-Saharan Africa,5.6,5.4,4.1,6.9,6.5,5.0
+2017,MMR,South Asia,5.63,6.8,3.6,6.7,5.2,5.9
+2017,NAM,Sub-Saharan Africa,6.53,5.7,6.4,6.5,6.5,7.7
+2017,NPL,South Asia,6.49,7.2,4.5,6.8,6.6,7.2
+2017,NLD,Western Europe,7.72,4.3,8.1,9.4,8.7,8.1
+2017,NZL,Oceania,8.5,6.6,8.6,9.5,8.6,9.1
+2017,NIC,Latin America & the Caribbean,7.01,6.6,4.4,9.1,7.8,7.0
+2017,NER,Sub-Saharan Africa,5.83,6.2,3.7,7.1,5.6,6.5
+2017,NGA,Sub-Saharan Africa,6.86,8.6,3.3,8.6,6.1,7.8
+2017,MKD,Eastern Europe,7.02,6.7,4.3,8.1,7.9,8.0
+2017,NOR,Western Europe,7.62,4.9,8.5,9.6,7.6,7.6
+2017,OMN,Middle East & North Africa,6.76,4.4,6.2,8.7,7.7,6.8
+2017,PAK,South Asia,5.91,7.0,3.6,6.7,5.8,6.4
+2017,PAN,Latin America & the Caribbean,7.66,7.9,5.2,9.7,8.7,6.9
+2017,PNG,Oceania,6.36,6.1,4.2,6.5,7.3,7.7
+2017,PRY,Latin America & the Caribbean,7.03,8.3,3.9,9.4,7.3,6.2
+2017,PER,Latin America & the Caribbean,7.49,7.5,4.7,9.7,8.2,7.2
+2017,PHL,South Asia,7.32,8.3,4.2,9.5,7.2,7.4
+2017,POL,Eastern Europe,7.24,5.6,5.8,9.7,7.9,7.2
+2017,PRT,Western Europe,7.52,6.2,6.8,9.4,8.3,6.8
+2017,QAT,Middle East & North Africa,7.07,5.7,6.1,8.5,7.5,7.5
+2017,ROU,Eastern Europe,7.68,7.0,6.1,9.4,8.4,7.5
+2017,RUS,Eastern Europe,6.78,6.3,4.8,9.3,6.8,6.6
+2017,RWA,Sub-Saharan Africa,7.26,5.2,6.9,9.2,7.1,7.8
+2017,SAU,Middle East & North Africa,6.52,5.2,5.3,9.0,6.3,6.8
+2017,SEN,Sub-Saharan Africa,6.17,7.0,4.3,7.2,6.7,5.6
+2017,SRB,Eastern Europe,6.89,6.4,5.0,8.2,7.6,7.2
+2017,SYC,Sub-Saharan Africa,7.16,6.3,5.8,9.1,7.3,7.4
+2017,SLE,Sub-Saharan Africa,5.71,6.9,3.9,6.5,6.4,4.7
+2017,SGP,South Asia,8.71,7.2,8.2,9.9,9.3,9.0
+2017,SVK,Eastern Europe,7.51,6.5,5.7,9.5,8.3,7.6
+2017,SVN,Eastern Europe,7.15,5.3,6.2,9.4,7.9,7.0
+2017,ZAF,Sub-Saharan Africa,6.61,5.8,5.0,8.2,6.9,7.2
+2017,ESP,Western Europe,7.55,6.1,6.8,9.4,8.1,7.5
+2017,LKA,South Asia,6.57,7.6,4.9,7.6,5.8,6.9
+2017,SDN,Sub-Saharan Africa,4.67,7.6,3.0,4.4,2.3,6.0
+2017,SUR,Latin America & the Caribbean,6.65,6.4,4.7,7.2,7.2,7.7
+2017,SWE,Western Europe,7.56,4.5,7.7,9.3,8.2,8.0
+2017,CHE,Western Europe,8.4,7.6,8.4,9.9,7.6,8.5
+2017,SYR,Middle East & North Africa,5.05,5.7,3.2,5.9,5.0,5.4
+2017,TWN,East Asia,7.85,7.4,6.8,9.8,7.7,7.6
+2017,TJK,Caucasus & Central Asia,6.05,5.1,5.0,7.5,5.9,6.6
+2017,TZA,Sub-Saharan Africa,6.77,6.7,5.7,8.3,6.2,7.0
+2017,THA,South Asia,6.86,6.8,4.7,8.6,7.2,7.0
+2017,TLS,South Asia,5.99,4.5,3.3,8.1,7.8,6.3
+2017,TGO,Sub-Saharan Africa,6.21,6.5,5.2,7.0,5.7,6.6
+2017,TTO,Latin America & the Caribbean,6.7,5.4,4.6,9.1,7.8,6.6
+2017,TUN,Middle East & North Africa,6.2,5.6,5.3,6.9,6.8,6.4
+2017,TUR,Middle East & North Africa,6.67,6.6,4.6,8.8,7.3,6.0
+2017,UGA,Sub-Saharan Africa,7.39,7.5,4.7,9.4,7.6,7.8
+2017,UKR,Eastern Europe,5.96,7.2,4.4,5.0,6.8,6.4
+2017,ARE,Middle East & North Africa,7.17,5.8,5.7,9.1,8.0,7.2
+2017,GBR,Western Europe,8.09,6.2,7.8,9.7,8.4,8.4
+2017,USA,North America,8.19,7.2,7.4,9.8,7.7,8.9
+2017,URY,Latin America & the Caribbean,7.05,6.3,5.2,9.0,7.9,6.8
+2017,VEN,Latin America & the Caribbean,2.58,4.6,2.0,0.7,3.2,2.5
+2017,VNM,South Asia,6.27,6.7,5.0,6.7,6.3,6.7
+2017,YEM,Middle East & North Africa,5.84,7.1,3.2,8.0,5.9,5.0
+2017,ZMB,Sub-Saharan Africa,6.84,6.6,5.2,8.8,7.1,6.5
+2017,ZWE,Sub-Saharan Africa,5.69,5.5,4.1,8.4,3.7,6.7
+2016,ALB,Eastern Europe,7.64,7.9,5.1,9.6,8.2,7.5
+2016,DZA,Middle East & North Africa,5.03,3.7,4.7,7.3,4.1,5.4
+2016,AGO,Sub-Saharan Africa,5.4,7.5,3.0,5.6,5.3,5.6
+2016,ARG,Latin America & the Caribbean,5.4,5.6,3.9,5.6,6.5,5.4
+2016,ARM,Caucasus & Central Asia,7.65,7.4,5.8,9.5,8.2,7.4
+2016,AUS,Oceania,8.07,7.0,7.9,9.5,7.5,8.5
+2016,AUT,Western Europe,7.69,5.6,7.9,9.4,8.1,7.4
+2016,AZE,Caucasus & Central Asia,6.46,5.0,5.7,7.5,7.2,6.9
+2016,BHS,Latin America & the Caribbean,7.33,8.2,6.7,6.9,6.7,8.2
+2016,BHR,Middle East & North Africa,7.24,6.7,5.3,9.4,7.4,7.4
+2016,BGD,South Asia,6.19,8.1,3.2,7.0,6.0,6.7
+2016,BRD,Latin America & the Caribbean,6.43,6.4,5.8,6.4,7.0,6.5
+2016,BLR,Eastern Europe,6.08,6.0,5.5,5.3,7.2,6.4
+2016,BEL,Western Europe,7.46,4.8,7.1,9.4,8.2,7.9
+2016,BLZ,Latin America & the Caribbean,6.84,6.9,5.1,7.2,7.1,7.9
+2016,BEN,Sub-Saharan Africa,6.01,6.9,3.8,7.0,6.0,6.3
+2016,BTN,South Asia,6.9,6.9,6.87,6.7,6.3,7.7
+2016,BOL,Latin America & the Caribbean,6.17,5.9,3.6,9.4,7.0,5.0
+2016,BIH,Eastern Europe,6.68,5.7,4.1,8.3,7.8,7.4
+2016,BWA,Sub-Saharan Africa,7.32,6.0,6.0,9.1,7.8,7.8
+2016,BRA,Latin America & the Caribbean,6.11,5.7,4.6,9.2,7.0,4.1
+2016,BRN,South Asia,6.93,5.0,5.35,8.8,7.1,8.4
+2016,BGR,Eastern Europe,7.43,7.1,4.8,9.4,8.1,7.6
+2016,BFA,Sub-Saharan Africa,6.01,5.8,3.7,7.1,6.5,6.9
+2016,BDI,Sub-Saharan Africa,6.27,6.7,3.5,8.8,6.1,6.3
+2016,KHM,South Asia,7.38,8.9,4.28,9.3,7.3,7.1
+2016,CMR,Sub-Saharan Africa,5.8,7.0,3.2,7.2,5.1,6.5
+2016,CAN,North America,8.08,6.5,7.9,9.6,7.9,8.5
+2016,CPV,Sub-Saharan Africa,7.11,7.2,6.02,8.1,7.2,7.0
+2016,CAF,Sub-Saharan Africa,5.41,7.8,2.7,6.5,4.7,5.4
+2016,TCD,Sub-Saharan Africa,5.35,7.3,2.7,6.7,5.1,5.0
+2016,CHL,Latin America & the Caribbean,7.85,8.1,6.4,9.3,8.3,7.2
+2016,CHN,East Asia,6.4,4.8,5.7,8.5,6.7,6.4
+2016,COL,Latin America & the Caribbean,6.63,7.3,3.8,8.0,6.8,7.3
+2016,COD,Sub-Saharan Africa,5.78,6.9,2.6,8.1,5.5,5.7
+2016,COG,Sub-Saharan Africa,4.87,5.1,3.1,5.6,4.9,5.6
+2016,CRI,Latin America & the Caribbean,7.44,7.1,5.9,9.8,8.0,6.4
+2016,CIV,Sub-Saharan Africa,6.02,6.1,4.6,7.1,5.7,6.6
+2016,HRV,Eastern Europe,6.99,5.1,5.5,9.1,8.2,7.1
+2016,CYP,Eastern Europe,7.67,7.1,5.9,9.5,8.3,7.5
+2016,CZE,Eastern Europe,7.75,6.7,6.3,9.4,8.2,8.1
+2016,DNK,Western Europe,7.88,4.7,8.1,9.9,8.5,8.3
+2016,DOM,Latin America & the Caribbean,6.93,6.6,4.0,9.5,7.9,6.6
+2016,ECU,Latin America & the Caribbean,6.23,6.5,3.8,8.3,6.5,6.0
+2016,EGY,Middle East & North Africa,5.28,5.1,3.9,6.9,5.6,4.8
+2016,SLV,Latin America & the Caribbean,7.09,8.2,3.6,9.8,7.7,6.2
+2016,EST,Eastern Europe,7.95,6.4,7.4,9.3,8.4,8.2
+2016,SWZ,Sub-Saharan Africa,6.37,5.0,4.36,7.7,7.0,7.7
+2016,ETH,Sub-Saharan Africa,5.57,5.8,4.6,5.7,5.0,6.6
+2016,FJI,Oceania,6.55,5.7,5.3,6.4,6.5,8.8
+2016,FIN,Western Europe,7.75,4.6,8.8,9.4,8.2,7.7
+2016,FRA,Western Europe,7.32,4.8,6.9,9.5,8.2,7.2
+2016,GAB,Sub-Saharan Africa,5.78,5.9,3.9,6.6,5.7,6.8
+2016,GMB,Sub-Saharan Africa,7.28,7.2,5.49,9.3,7.5,7.0
+2016,GEO,Caucasus & Central Asia,7.88,7.5,6.3,8.9,8.6,8.1
+2016,DEU,Western Europe,7.87,6.4,7.4,9.5,8.0,8.0
+2016,GHA,Sub-Saharan Africa,6.53,7.9,5.4,5.7,6.5,7.2
+2016,GRC,Eastern Europe,6.57,4.7,5.8,8.0,7.7,6.7
+2016,GTM,Latin America & the Caribbean,7.63,9.5,4.4,9.6,8.2,6.6
+2016,GIN,Sub-Saharan Africa,5.69,5.4,3.23,7.9,5.1,6.9
+2016,GNB,Sub-Saharan Africa,5.01,4.9,2.9,6.0,5.7,5.4
+2016,GUY,Latin America & the Caribbean,6.34,6.1,4.4,8.3,6.4,6.5
+2016,HTI,Latin America & the Caribbean,6.56,8.6,2.5,7.2,7.5,7.0
+2016,HND,Latin America & the Caribbean,7.19,9.2,3.4,9.3,7.2,6.8
+2016,HKG,East Asia,8.89,8.2,7.9,9.6,9.3,9.4
+2016,HUN,Eastern Europe,7.26,5.3,5.9,9.7,8.0,7.4
+2016,ISL,Western Europe,7.72,5.8,8.4,9.6,7.2,7.7
+2016,IND,South Asia,6.72,8.2,5.2,8.2,5.6,6.5
+2016,IDN,South Asia,7.27,8.4,4.9,9.7,7.0,6.4
+2016,IRN,Middle East & North Africa,5.74,5.5,4.6,8.4,4.6,5.7
+2016,IRQ,Middle East & North Africa,5.34,5.0,2.8,7.2,5.2,6.5
+2016,IRL,Western Europe,8.15,6.7,7.7,9.3,8.6,8.5
+2016,ISR,Middle East & North Africa,7.5,6.3,6.2,9.4,8.2,7.4
+2016,ITA,Western Europe,7.43,6.3,5.7,9.4,8.3,7.5
+2016,JAM,Latin America & the Caribbean,7.2,7.5,5.1,8.6,6.9,8.0
+2016,JPN,East Asia,7.83,5.7,7.6,9.5,8.1,8.2
+2016,JOR,Middle East & North Africa,7.38,7.2,4.8,9.6,7.6,7.8
+2016,KAZ,Caucasus & Central Asia,6.99,6.9,5.4,8.6,6.5,7.5
+2016,KEN,Sub-Saharan Africa,7.14,7.5,4.9,9.2,6.7,7.4
+2016,KOR,East Asia,7.55,7.0,6.4,9.6,7.6,7.2
+2016,KWT,Middle East & North Africa,6.5,5.0,4.9,8.3,6.8,7.4
+2016,KGZ,Caucasus & Central Asia,6.92,7.0,4.3,9.4,7.3,6.6
+2016,LAO,South Asia,6.66,6.6,5.94,7.3,6.8,6.6
+2016,LVA,Eastern Europe,7.75,7.0,6.2,9.3,8.4,7.9
+2016,LBN,Middle East & North Africa,7.06,8.5,3.95,9.7,6.8,6.4
+2016,LSO,Sub-Saharan Africa,6.53,5.4,5.4,7.8,6.5,7.4
+2016,LBR,Sub-Saharan Africa,6.68,7.6,4.19,9.4,6.2,6.1
+2016,LBY,Middle East & North Africa,4.83,3.4,3.21,6.4,4.8,6.4
+2016,LTU,Eastern Europe,7.88,7.3,6.5,9.3,8.2,8.0
+2016,LUX,Western Europe,7.79,5.1,8.4,9.3,8.3,7.9
+2016,MDG,Sub-Saharan Africa,6.25,7.8,2.8,7.9,6.9,5.8
+2016,MWI,Sub-Saharan Africa,5.95,6.4,4.7,6.6,6.1,6.0
+2016,MYS,South Asia,7.31,6.3,5.8,8.3,7.5,8.6
+2016,MLI,Sub-Saharan Africa,5.89,5.7,3.5,7.2,6.9,6.2
+2016,MLT,Western Europe,7.95,7.0,6.6,9.5,8.4,8.2
+2016,MRT,Sub-Saharan Africa,6.14,5.9,3.7,8.2,5.9,6.9
+2016,MUS,Sub-Saharan Africa,8.0,7.7,6.8,9.6,8.4,7.5
+2016,MEX,Latin America & the Caribbean,6.77,7.6,4.1,8.1,7.3,6.8
+2016,MDA,Eastern Europe,6.6,6.3,4.3,8.0,7.5,6.9
+2016,MNG,East Asia,7.34,7.7,5.6,9.4,6.8,7.3
+2016,MNE,Eastern Europe,6.94,6.4,4.9,8.3,8.2,6.9
+2016,MAR,Middle East & North Africa,6.58,6.2,5.4,7.2,6.9,7.2
+2016,MOZ,Sub-Saharan Africa,5.6,5.3,4.0,7.2,6.4,5.1
+2016,MMR,South Asia,5.64,6.7,3.5,6.5,5.7,5.8
+2016,NAM,Sub-Saharan Africa,6.52,5.8,6.4,6.1,6.5,7.8
+2016,NPL,South Asia,6.45,7.5,4.6,6.4,6.6,7.1
+2016,NLD,Western Europe,7.76,4.5,8.2,9.5,8.7,7.9
+2016,NZL,Oceania,8.55,6.8,8.7,9.5,8.6,9.2
+2016,NIC,Latin America & the Caribbean,7.09,7.1,4.5,9.1,7.8,7.0
+2016,NER,Sub-Saharan Africa,5.86,6.7,3.6,7.0,5.5,6.5
+2016,NGA,Sub-Saharan Africa,6.85,8.5,3.6,8.7,5.9,7.6
+2016,MKD,Eastern Europe,7.18,6.5,5.1,8.1,8.0,8.2
+2016,NOR,Western Europe,7.67,4.9,8.7,9.5,7.6,7.7
+2016,OMN,Middle East & North Africa,6.73,4.3,5.9,8.8,7.7,6.8
+2016,PAK,South Asia,5.93,7.5,3.5,6.6,5.8,6.3
+2016,PAN,Latin America & the Caribbean,7.61,7.5,5.2,9.7,8.7,6.9
+2016,PNG,Oceania,6.25,6.3,4.1,6.4,7.2,7.3
+2016,PRY,Latin America & the Caribbean,6.96,8.3,3.8,9.3,7.3,6.1
+2016,PER,Latin America & the Caribbean,7.5,7.5,4.8,9.7,8.2,7.3
+2016,PHL,South Asia,7.3,8.3,4.3,9.4,7.1,7.4
+2016,POL,Eastern Europe,7.27,6.0,5.6,9.6,7.9,7.3
+2016,PRT,Western Europe,7.48,5.9,7.0,9.4,8.4,6.9
+2016,QAT,Middle East & North Africa,7.21,5.7,6.24,8.7,7.6,7.8
+2016,ROU,Eastern Europe,7.65,6.9,6.0,9.3,8.4,7.6
+2016,RUS,Eastern Europe,6.71,6.1,5.0,9.1,6.8,6.5
+2016,RWA,Sub-Saharan Africa,7.33,5.3,7.2,9.3,7.0,7.8
+2016,SAU,Middle East & North Africa,6.44,5.2,5.19,9.0,6.0,6.8
+2016,SEN,Sub-Saharan Africa,6.04,6.5,4.3,7.2,6.7,5.6
+2016,SRB,Eastern Europe,6.87,6.5,4.9,8.1,7.6,7.2
+2016,SYC,Sub-Saharan Africa,7.17,6.1,5.67,9.0,7.8,7.4
+2016,SLE,Sub-Saharan Africa,5.69,6.7,4.0,6.9,6.1,4.7
+2016,SGP,South Asia,8.69,7.2,8.2,9.8,9.3,9.0
+2016,SVK,Eastern Europe,7.41,6.1,5.6,9.5,8.3,7.6
+2016,SVN,Eastern Europe,7.13,5.2,6.2,9.5,7.9,6.8
+2016,ZAF,Sub-Saharan Africa,6.58,5.7,5.2,8.1,6.8,7.2
+2016,ESP,Western Europe,7.65,6.5,6.8,9.5,8.1,7.4
+2016,LKA,South Asia,6.62,7.7,4.9,7.7,5.9,6.9
+2016,SDN,Sub-Saharan Africa,5.06,8.0,3.0,5.5,2.9,5.9
+2016,SUR,Latin America & the Caribbean,6.31,6.6,5.22,6.0,7.2,6.6
+2016,SWE,Western Europe,7.63,4.6,7.8,9.3,8.2,8.2
+2016,CHE,Western Europe,8.44,7.7,8.5,9.9,7.6,8.5
+2016,SYR,Middle East & North Africa,4.93,5.7,3.4,5.1,4.9,5.4
+2016,TWN,East Asia,7.85,7.4,6.8,9.7,7.7,7.7
+2016,TJK,Caucasus & Central Asia,6.26,5.4,5.12,7.6,6.4,6.8
+2016,TZA,Sub-Saharan Africa,6.74,6.7,5.7,8.2,6.2,7.0
+2016,THA,South Asia,6.83,6.6,4.7,8.6,7.1,7.1
+2016,TLS,South Asia,6.29,4.8,3.54,8.7,7.1,7.4
+2016,TGO,Sub-Saharan Africa,6.04,7.1,4.3,7.0,5.5,6.3
+2016,TTO,Latin America & the Caribbean,6.71,5.5,4.5,9.1,7.8,6.6
+2016,TUN,Middle East & North Africa,6.25,5.6,5.3,7.1,6.9,6.4
+2016,TUR,Middle East & North Africa,6.83,6.5,4.8,9.0,7.2,6.6
+2016,UGA,Sub-Saharan Africa,7.31,8.0,4.7,8.6,7.5,7.7
+2016,UKR,Eastern Europe,5.92,7.1,4.5,4.9,6.6,6.5
+2016,ARE,Middle East & North Africa,7.33,5.9,6.1,9.1,8.2,7.4
+2016,GBR,Western Europe,8.06,6.2,7.8,9.8,8.4,8.0
+2016,USA,North America,8.17,7.1,7.4,9.8,7.7,8.8
+2016,URY,Latin America & the Caribbean,7.06,6.4,5.4,9.0,7.8,6.8
+2016,VEN,Latin America & the Caribbean,2.65,4.8,2.0,0.7,3.3,2.5
+2016,VNM,South Asia,6.26,6.8,5.1,6.5,6.3,6.7
+2016,YEM,Middle East & North Africa,6.16,6.7,3.13,9.0,6.7,5.2
+2016,ZMB,Sub-Saharan Africa,6.66,6.2,5.3,8.3,7.1,6.4
+2016,ZWE,Sub-Saharan Africa,6.02,5.9,3.8,8.3,5.6,6.5
+2015,ALB,Eastern Europe,7.64,7.9,5.0,9.6,8.1,7.6
+2015,DZA,Middle East & North Africa,4.8,3.2,4.6,6.9,4.0,5.4
+2015,AGO,Sub-Saharan Africa,5.61,7.3,3.0,6.9,5.2,5.7
+2015,ARG,Latin America & the Caribbean,5.06,5.7,3.8,6.5,3.8,5.5
+2015,ARM,Caucasus & Central Asia,7.67,7.5,5.8,9.5,8.2,7.4
+2015,AUS,Oceania,8.03,6.8,8.0,9.4,7.6,8.5
+2015,AUT,Western Europe,7.74,5.6,8.0,9.6,8.1,7.4
+2015,AZE,Caucasus & Central Asia,6.33,5.0,5.3,7.3,7.1,7.0
+2015,BHS,Latin America & the Caribbean,7.35,8.3,6.8,6.8,6.7,8.2
+2015,BHR,Middle East & North Africa,7.11,5.5,5.3,9.2,7.4,8.2
+2015,BGD,South Asia,6.21,8.3,3.0,7.0,6.0,6.7
+2015,BRD,Latin America & the Caribbean,6.5,6.5,5.8,6.7,7.0,6.5
+2015,BLR,Eastern Europe,null,null,null,null,null,null
+2015,BEL,Western Europe,7.57,4.8,7.3,9.7,8.3,7.9
+2015,BLZ,Latin America & the Caribbean,6.8,7.0,5.1,6.9,7.1,7.9
+2015,BEN,Sub-Saharan Africa,5.76,6.5,3.6,6.9,5.9,5.9
+2015,BTN,South Asia,6.96,7.0,6.86,7.0,6.3,7.6
+2015,BOL,Latin America & the Caribbean,6.0,5.9,3.6,8.7,6.8,5.0
+2015,BIH,Eastern Europe,6.69,5.7,4.2,8.5,7.8,7.3
+2015,BWA,Sub-Saharan Africa,7.24,5.4,6.2,9.1,7.7,7.9
+2015,BRA,Latin America & the Caribbean,5.83,5.5,4.5,8.0,6.9,4.3
+2015,BRN,South Asia,6.77,5.0,5.24,8.5,7.0,8.1
+2015,BGR,Eastern Europe,7.42,7.1,4.9,9.4,8.1,7.6
+2015,BFA,Sub-Saharan Africa,5.94,6.0,3.6,7.0,6.5,6.6
+2015,BDI,Sub-Saharan Africa,6.06,6.7,3.1,7.8,6.1,6.6
+2015,KHM,South Asia,7.45,9.1,4.35,9.3,7.4,7.2
+2015,CMR,Sub-Saharan Africa,5.74,7.1,3.3,7.1,5.0,6.3
+2015,CAN,North America,8.03,6.3,7.9,9.6,7.9,8.5
+2015,CPV,Sub-Saharan Africa,7.09,7.2,6.08,8.4,7.0,6.8
+2015,CAF,Sub-Saharan Africa,4.84,6.8,2.6,4.8,4.7,5.3
+2015,TCD,Sub-Saharan Africa,5.26,7.1,2.8,6.4,5.2,4.9
+2015,CHL,Latin America & the Caribbean,7.85,8.1,6.5,9.3,8.2,7.1
+2015,CHN,East Asia,6.33,4.8,5.6,8.3,6.6,6.3
+2015,COL,Latin America & the Caribbean,6.66,7.2,3.8,8.0,6.9,7.4
+2015,COD,Sub-Saharan Africa,5.66,6.4,2.7,8.0,5.4,5.8
+2015,COG,Sub-Saharan Africa,4.83,4.9,3.3,5.8,4.7,5.5
+2015,CRI,Latin America & the Caribbean,7.44,7.2,5.8,9.8,8.0,6.4
+2015,CIV,Sub-Saharan Africa,5.9,6.1,4.6,7.0,5.7,6.2
+2015,HRV,Eastern Europe,7.07,5.0,5.7,9.3,8.2,7.1
+2015,CYP,Eastern Europe,7.66,7.1,5.8,9.7,8.2,7.4
+2015,CZE,Eastern Europe,7.7,6.3,6.2,9.6,8.2,8.2
+2015,DNK,Western Europe,7.86,4.7,8.2,9.6,8.4,8.4
+2015,DOM,Latin America & the Caribbean,6.99,6.6,4.1,9.5,8.2,6.6
+2015,ECU,Latin America & the Caribbean,6.09,5.9,3.9,8.1,6.5,6.1
+2015,EGY,Middle East & North Africa,5.33,5.1,3.5,7.5,5.6,5.0
+2015,SLV,Latin America & the Caribbean,7.1,8.2,3.7,9.6,7.7,6.3
+2015,EST,Eastern Europe,7.99,6.2,7.5,9.5,8.5,8.2
+2015,SWZ,Sub-Saharan Africa,6.36,5.2,4.11,7.9,7.0,7.6
+2015,ETH,Sub-Saharan Africa,5.34,5.6,4.6,5.5,4.9,6.0
+2015,FJI,Oceania,6.59,5.9,5.3,6.3,6.6,8.8
+2015,FIN,Western Europe,7.79,4.6,8.9,9.6,8.2,7.7
+2015,FRA,Western Europe,7.42,4.8,7.1,9.8,8.2,7.3
+2015,GAB,Sub-Saharan Africa,5.69,5.8,3.9,6.4,5.7,6.6
+2015,GMB,Sub-Saharan Africa,7.15,7.1,5.26,9.2,7.4,6.8
+2015,GEO,Caucasus & Central Asia,7.97,7.6,6.6,9.0,8.7,8.0
+2015,DEU,Western Europe,7.85,6.4,7.4,9.6,7.9,7.8
+2015,GHA,Sub-Saharan Africa,6.39,7.5,5.4,5.6,6.5,6.8
+2015,GRC,Eastern Europe,6.58,4.3,6.0,8.3,7.6,6.6
+2015,GTM,Latin America & the Caribbean,7.68,9.4,4.5,9.6,8.2,6.6
+2015,GIN,Sub-Saharan Africa,5.51,5.2,2.98,7.8,5.0,6.6
+2015,GNB,Sub-Saharan Africa,5.19,5.3,3.0,6.4,6.1,5.2
+2015,GUY,Latin America & the Caribbean,6.5,6.8,4.3,8.3,6.4,6.7
+2015,HTI,Latin America & the Caribbean,6.6,8.0,2.5,7.8,7.8,7.0
+2015,HND,Latin America & the Caribbean,7.38,9.2,4.0,9.4,7.4,6.9
+2015,HKG,East Asia,8.88,8.2,8.1,9.5,9.2,9.4
+2015,HUN,Eastern Europe,7.23,5.2,6.0,9.5,7.9,7.5
+2015,ISL,Western Europe,7.31,5.8,8.5,7.2,7.2,8.0
+2015,IND,South Asia,6.69,8.2,5.1,8.1,5.6,6.5
+2015,IDN,South Asia,7.09,8.2,4.5,9.4,7.0,6.3
+2015,IRN,Middle East & North Africa,5.59,6.0,4.5,7.8,4.5,5.1
+2015,IRQ,Middle East & North Africa,null,null,null,null,null,null
+2015,IRL,Western Europe,8.32,6.7,8.0,9.5,8.8,8.6
+2015,ISR,Middle East & North Africa,7.49,6.3,6.1,9.5,8.1,7.4
+2015,ITA,Western Europe,7.48,6.3,5.7,9.7,8.3,7.5
+2015,JAM,Latin America & the Caribbean,7.25,7.6,5.2,8.7,6.9,7.9
+2015,JPN,East Asia,7.85,5.7,7.6,9.6,8.1,8.2
+2015,JOR,Middle East & North Africa,7.43,7.2,4.8,9.7,7.6,7.9
+2015,KAZ,Caucasus & Central Asia,7.14,7.0,5.6,8.9,6.4,7.8
+2015,KEN,Sub-Saharan Africa,7.07,7.6,4.7,9.1,6.6,7.3
+2015,KOR,East Asia,7.57,7.0,6.5,9.7,7.5,7.2
+2015,KWT,Middle East & North Africa,6.33,4.9,5.0,7.6,6.7,7.4
+2015,KGZ,Caucasus & Central Asia,6.78,6.9,4.2,8.6,7.4,6.7
+2015,LAO,South Asia,6.65,6.8,5.98,7.3,6.8,6.3
+2015,LVA,Eastern Europe,7.85,6.8,6.4,9.5,8.3,8.2
+2015,LBN,Middle East & North Africa,7.06,8.5,4.05,9.6,6.9,6.3
+2015,LSO,Sub-Saharan Africa,6.6,5.4,5.8,7.9,6.5,7.5
+2015,LBR,Sub-Saharan Africa,6.94,8.5,4.68,9.1,6.1,6.3
+2015,LBY,Middle East & North Africa,4.93,3.4,3.21,7.0,4.8,6.2
+2015,LTU,Eastern Europe,7.9,7.3,6.5,9.4,8.2,8.0
+2015,LUX,Western Europe,7.81,5.0,8.4,9.5,8.3,7.9
+2015,MDG,Sub-Saharan Africa,6.36,8.1,2.9,8.0,6.8,5.9
+2015,MWI,Sub-Saharan Africa,5.8,6.4,4.6,6.2,6.0,5.8
+2015,MYS,South Asia,7.53,6.2,5.8,9.5,7.5,8.7
+2015,MLI,Sub-Saharan Africa,5.88,5.7,3.6,7.0,6.9,6.2
+2015,MLT,Western Europe,7.92,6.9,6.6,9.7,8.4,8.1
+2015,MRT,Sub-Saharan Africa,5.83,5.6,3.3,7.7,6.0,6.6
+2015,MUS,Sub-Saharan Africa,8.05,7.9,6.5,9.6,8.4,7.9
+2015,MEX,Latin America & the Caribbean,6.88,7.6,4.2,8.2,7.6,6.9
+2015,MDA,Eastern Europe,6.53,6.2,4.2,7.8,7.4,6.9
+2015,MNG,East Asia,7.33,7.9,5.6,9.0,6.9,7.1
+2015,MNE,Eastern Europe,7.03,6.4,4.8,8.4,8.1,7.3
+2015,MAR,Middle East & North Africa,6.57,6.2,5.6,7.3,6.8,7.0
+2015,MOZ,Sub-Saharan Africa,5.49,5.4,4.0,6.4,6.4,5.2
+2015,MMR,South Asia,5.52,6.6,3.4,6.3,5.7,5.6
+2015,NAM,Sub-Saharan Africa,6.68,6.0,6.5,6.6,6.4,7.8
+2015,NPL,South Asia,6.41,7.7,4.5,6.4,6.7,6.7
+2015,NLD,Western Europe,7.78,4.5,8.2,9.8,8.6,7.9
+2015,NZL,Oceania,8.54,6.8,8.7,9.5,8.6,9.1
+2015,NIC,Latin America & the Caribbean,7.08,7.1,4.4,8.9,7.8,7.1
+2015,NER,Sub-Saharan Africa,5.59,6.2,3.4,6.8,5.5,6.1
+2015,NGA,Sub-Saharan Africa,6.63,8.5,3.6,7.9,5.9,7.2
+2015,MKD,Eastern Europe,7.21,6.5,5.1,8.3,8.0,8.2
+2015,NOR,Western Europe,7.24,4.9,8.8,7.0,7.7,7.8
+2015,OMN,Middle East & North Africa,6.6,4.3,6.0,8.3,7.6,6.7
+2015,PAK,South Asia,5.85,7.5,3.3,6.4,5.8,6.3
+2015,PAN,Latin America & the Caribbean,7.72,8.2,5.4,9.4,8.7,7.0
+2015,PNG,Oceania,6.24,6.1,4.1,6.5,7.2,7.3
+2015,PRY,Latin America & the Caribbean,6.95,8.3,3.9,9.2,7.3,6.0
+2015,PER,Latin America & the Caribbean,7.54,7.6,4.8,9.6,8.2,7.5
+2015,PHL,South Asia,7.42,8.6,4.4,9.4,7.1,7.4
+2015,POL,Eastern Europe,7.41,6.0,5.8,9.6,8.0,7.7
+2015,PRT,Western Europe,7.55,6.0,7.0,9.7,8.4,6.7
+2015,QAT,Middle East & North Africa,7.16,5.8,6.3,8.4,7.6,7.8
+2015,ROU,Eastern Europe,7.65,6.9,5.9,9.4,8.5,7.6
+2015,RUS,Eastern Europe,6.52,6.1,4.8,8.5,6.6,6.5
+2015,RWA,Sub-Saharan Africa,7.47,5.7,7.3,9.4,7.0,8.0
+2015,SAU,Middle East & North Africa,6.15,5.0,5.29,8.3,6.1,6.1
+2015,SEN,Sub-Saharan Africa,6.01,6.9,4.2,7.1,6.6,5.2
+2015,SRB,Eastern Europe,6.78,6.5,4.9,7.8,7.6,7.1
+2015,SYC,Sub-Saharan Africa,7.19,6.1,5.52,9.3,7.7,7.4
+2015,SLE,Sub-Saharan Africa,5.71,7.0,4.0,7.1,5.8,4.7
+2015,SGP,South Asia,8.68,7.2,8.3,9.8,9.2,8.8
+2015,SVK,Eastern Europe,7.37,5.7,5.6,9.7,8.3,7.4
+2015,SVN,Eastern Europe,7.2,5.1,6.3,9.8,7.9,6.9
+2015,ZAF,Sub-Saharan Africa,6.76,5.7,5.8,8.1,6.9,7.4
+2015,ESP,Western Europe,7.63,6.2,6.8,9.8,8.0,7.3
+2015,LKA,South Asia,6.76,7.6,5.3,8.1,5.9,6.9
+2015,SDN,Sub-Saharan Africa,null,null,null,null,null,null
+2015,SUR,Latin America & the Caribbean,6.85,6.0,5.07,8.9,7.2,7.1
+2015,SWE,Western Europe,7.83,4.6,8.3,9.7,8.3,8.2
+2015,CHE,Western Europe,8.42,7.7,8.6,9.8,7.5,8.5
+2015,SYR,Middle East & North Africa,4.87,5.7,3.4,4.9,4.9,5.4
+2015,TWN,East Asia,7.74,7.4,6.8,9.6,7.6,7.3
+2015,TJK,Caucasus & Central Asia,6.27,5.5,5.14,7.8,6.4,6.5
+2015,TZA,Sub-Saharan Africa,6.84,7.1,5.7,8.1,6.3,7.1
+2015,THA,South Asia,6.79,6.6,4.8,8.5,7.1,7.1
+2015,TLS,South Asia,6.29,4.6,3.54,8.8,7.0,7.4
+2015,TGO,Sub-Saharan Africa,5.88,6.6,4.4,7.0,5.5,6.0
+2015,TTO,Latin America & the Caribbean,6.4,5.3,4.4,8.3,7.8,6.3
+2015,TUN,Middle East & North Africa,6.31,6.0,5.3,7.1,6.8,6.4
+2015,TUR,Middle East & North Africa,6.84,6.6,4.7,9.1,7.2,6.5
+2015,UGA,Sub-Saharan Africa,7.26,7.5,4.9,8.6,7.4,7.9
+2015,UKR,Eastern Europe,5.4,7.0,4.3,3.3,6.5,5.9
+2015,ARE,Middle East & North Africa,7.28,5.9,6.0,8.4,8.2,7.9
+2015,GBR,Western Europe,8.07,6.2,7.9,9.8,8.4,8.0
+2015,USA,North America,8.07,7.1,7.2,9.8,7.5,8.7
+2015,URY,Latin America & the Caribbean,7.09,6.6,5.5,9.1,7.8,6.4
+2015,VEN,Latin America & the Caribbean,2.71,4.9,2.0,0.7,3.3,2.6
+2015,VNM,South Asia,6.13,6.8,5.0,6.2,6.0,6.6
+2015,YEM,Middle East & North Africa,5.94,6.4,3.02,8.1,6.8,5.4
+2015,ZMB,Sub-Saharan Africa,6.79,6.3,5.6,8.7,7.0,6.4
+2015,ZWE,Sub-Saharan Africa,6.13,6.4,3.8,8.2,5.7,6.6

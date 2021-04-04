@@ -119,6 +119,11 @@ df <- data.frame(xx = 1:200,
                  yy = rnorm(n = 200, mean = 5, sd = 3))
 head(df, 2)
 
+df[which.min(df$yy),]
+df[which.max(df$yy),]
+
+head(df[order(-df$yy),], 3)
+
 df[order(df$yy), "yy"][1:3]
 df[order(df$yy)[1:3], "yy"]
 
@@ -281,7 +286,6 @@ summary(aov(casual ~ as.character(season), data = bike))
 
 TukeyHSD(aov(casual ~ as.character(season), data = bike),
          which = "as.character(season)")
-
 
 
 dia <- read.csv("diamonds.csv")

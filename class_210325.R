@@ -103,6 +103,14 @@ table(df$Month)
 # aggregate(data = df, formula = y~x1 + x2, FUN = "fun_name")
 aggregate(data = iris, Sepal.Length ~ Species, FUN = "mean")
 
+library(dplyr)
+iris %>% 
+  group_by(Species) %>% 
+  summarise(mean = mean(Sepal.Length))
+
+aggregate(data = iris, Sepal.Length ~ Species, FUN = "mean")
+
+
 elec <- read.csv("elec_load.csv")
 head(elec, 2)
 aggregate(data = elec, X20HR ~ YEAR + MONTH,
@@ -182,6 +190,7 @@ df_1[df_1$aa == "b", ]
 df_1[df_1$aa != "b", ]
 df_1[(df_1$bb > 1) & (df_1$bb <4), ]
 
+paste("a", "b", "c")
 paste("a", "b", "c", sep = "-")
 paste(c("a", "b", "c"), sep = "-")
 paste(c("a", "b", "c"), collapse = "-")
@@ -261,6 +270,9 @@ as.numeric(num)
 
 as.numeric(gsub(pattern = "[^0-9.]",
                 replacement = "", "1,234.456원"))
+?gsub
+
+gsub(pattern = "[^0-9.]", replacement = "", "1원2전3큐")
 
 dia <- read.csv("diamonds.csv")
 head(dia, 2)
@@ -294,6 +306,7 @@ df_minmax
 # install.packages("reshape2")
 library("reshape2")
 
+elec
 elec_melt <- melt(data = elec,
                   id.vars = colnames(elec)[1:3])
 head(elec_melt)
